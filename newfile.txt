@@ -1,0 +1,9 @@
+RISC Processor
+RISC stands for Reduced Instruction Set Computer Processor, 
+a microprocessor architecture with a simple collection and highly customized set of instructions.
+It is built to minimize the instruction execution time by optimizing and limiting the number of instructions. 
+It means each instruction cycle requires only one clock cycle, and each cycle contains three parameters: fetch, decode and execute. 
+The RISC processor is also used to perform various complex instructions by combining them into simpler ones. 
+RISC chips require several transistors, making it cheaper to design and reduce the execution time for instruction.
+
+Examples of RISC processors are SUN's SPARC, PowerPC, Microchip PIC processors, RISC-V.
