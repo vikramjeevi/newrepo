@@ -1,0 +1,32 @@
+RISC:It is a Reduced Instruction Set Computer.	
+CISC:It is a Complex Instruction Set Computer.
+
+RISC:It emphasizes on software to optimize the instruction set.	
+CISC:It emphasizes on hardware to optimize the instruction set.
+
+RISC:It is a hard wired unit of programming in the RISC Processor.	
+CISC:Microprogramming unit in CISC Processor.
+
+RISC:It requires multiple register sets to store the instruction.	
+CISC:It requires a single register set to store the instruction.
+
+RISC has simple decoding of instruction.	
+CISC has complex decoding of instruction.
+
+RISC:Uses of the pipeline are simple in RISC.	
+CISC:Uses of the pipeline are difficult in CISC.
+
+RISC:It uses a limited number of instruction that requires less time to execute the instructions.	
+CISC:It uses a large number of instruction that requires more time to execute the instructions.
+
+RISC:It uses LOAD and STORE that are independent instructions in the register-to-register a program's interaction.	
+CISC:It uses LOAD and STORE instruction in the memory-to-memory interaction of a program.
+
+RISC has more transistors on memory registers.	
+CISC has transistors to store complex instructions.
+
+RISC:The execution time of RISC is very short.	
+CISC:The execution time of CISC is longer.
+
+Example of RISC: ARM, PA-RISC, Power Architecture, Alpha, AVR, ARC and the SPARC.	
+Examples of CISC: VAX, Motorola 68000 family, System/360, AMD and the Intel x86 CPUs.
