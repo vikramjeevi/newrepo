@@ -1,0 +1,7 @@
+The CISC Stands for Complex Instruction Set Computer, developed by the Intel. 
+It has a large collection of complex instructions that range from simple to very complex and specialized in the assembly language level, 
+Which takes a long time to execute the instructions. 
+So, CISC approaches reducing the number of instruction on each program and ignoring the number of cycles per instruction.
+It emphasizes to build complex instructions directly in the hardware because the hardware is always faster than software. 
+However, CISC chips are relatively slower as compared to RISC chips but use little instruction than RISC. 
+Examples of CISC processors are VAX, AMD, Intel x86 and the System/360
