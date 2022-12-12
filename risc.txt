@@ -1,0 +1,9 @@
+Some important features of RISC processors are:
+
+One cycle execution time: For executing each instruction in a computer, the RISC processors require one CPI (Clock per cycle). 
+And each CPI includes the fetch, decode and execute method applied in computer instruction.
+Pipelining technique: The pipelining technique is used in the RISC processors to execute multiple parts or stages of instructions to perform more efficiently.
+A large number of registers: RISC processors are optimized with multiple registers that can be used to store instruction and quickly respond to the computer and minimize interaction with computer memory.
+It supports a simple addressing mode and fixed length of instruction for executing the pipeline.
+It uses LOAD and STORE instruction to access the memory location.
+Simple and limited instruction reduces the execution time of a process in a RISC.
